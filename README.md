@@ -3,6 +3,9 @@ A research study on the impact of youth entrepreneurship programs on employment 
 # 📘 The Impact of Youth Entrepreneurship Programs on Employment Opportunities in Nigeria (2015–2024)
 
 This research project investigates how youth entrepreneurship programs in Nigeria—such as N-Power, YouWiN!, and the Tony Elumelu Foundation Entrepreneurship Programme—have influenced employment outcomes among young people between 2015 and 2024. It explores the effectiveness of these initiatives in promoting self-employment, formal job placements, and entrepreneurial skill development.
+## My Contribution
+
+For this project, I contributed to the research design, monitoring and evaluation framework, data analysis, and report writing. I also created and maintained this GitHub repository to document and present the findings.
 
 ---
 
